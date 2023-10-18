@@ -1,1 +1,2 @@
 Weights for pretrained models
+File sizes are large link to files will be provided in later update..
