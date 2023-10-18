@@ -1,0 +1,1 @@
+Image files to be used for Style and Content images are found here
